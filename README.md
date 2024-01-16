@@ -9,23 +9,17 @@
    pkg install xorg
    ```
 
-2. 启动 X Server：
-
-   ```
-   X
-   ```
-
-3. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
+2. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
 
    ```
    export DISPLAY=:0
-   startxfce4
+   startxfce4 &
    ```
 
-4. 打开新的 Termux 会话并运行 termux-x11：
+3. 打开新的 Termux 会话并运行 termux-x11：
 
    ```
-   termux-x11
+   termux-x11 &
    ```
 
 现在，你应该能够在 Termux 中看到 Xfce 图形界面。
