@@ -1,7 +1,7 @@
 # Termux/ZeroTermux
 ## 安装图形化界面
 利用官方提供的图形显示软件Termux-x11，并安装xfce4图形化桌面显示。
-注意要先下载 Termux/[ZeroTermux](https://od.ixcmstudio.cn/repository/main/ZeroTermux/)和Termux-x11应用
+注意要先下载 [Termux](https://github.com/termux/termux-app/releases)/[ZeroTermux](https://od.ixcmstudio.cn/repository/main/ZeroTermux/)和Termux-x11应用
 
 1. 打开Termux/ZeroTermux，更新源：
 
