@@ -36,5 +36,6 @@
    pkg install firefox
    ```
 
+仅此而已
 
 
