@@ -1,12 +1,14 @@
 # Termux
 ## Termux安装图形化界面
+利用官方提供的图形显示软件Termux-x11，并安装xfce4图形化桌面显示。
+注意要先下载
 
 1. 安装必要的软件包：
 
    ```
-   pkg install x11-repo
-   pkg install xfce4
-   pkg install xorg
+   pkg update && pkg upgrade
+   pkg install x11-repo xfce4 -y
+   
    ```
 
 2. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
@@ -16,12 +18,10 @@
    startxfce4 &
    ```
 
-3. 打开新的 Termux 会话并运行 termux-x11：
+3. 运行 termux-x11：
 
    ```
    termux-x11 &
    ```
+4.打开termux-x11应用，显示桌面
 
-现在，你应该能够在 Termux 中看到 Xfce 图形界面。
-
-请注意，这是一种基本的设置，可能会因设备和具体情况而有所不同。确保参考 Termux、Xfce 和 termux-x11 的文档以获取更详细的信息。
