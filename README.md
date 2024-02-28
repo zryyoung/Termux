@@ -12,7 +12,7 @@
 2. 安装必要的软件包：
 
    ```
-   pkg install x11-repo xfce4 -y   
+   pkg install x11-repo xfce4 termux-x11-nightly -y   
    ```
 
 3. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
