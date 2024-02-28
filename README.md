@@ -15,17 +15,17 @@
    pkg install x11-repo xfce4 termux-x11-nightly -y   
    ```
 
-3. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
+3. 运行 termux-x11：
+
+   ```
+   termux-x11 &
+   ```
+
+4. 在新的 Termux 会话中设置 DISPLAY 变量并启动 Xfce：
 
    ```
    export DISPLAY=:0
    startxfce4 &
-   ```
-
-4. 运行 termux-x11：
-
-   ```
-   termux-x11 &
    ```
    
 5. 打开termux-x11应用，显示桌面
