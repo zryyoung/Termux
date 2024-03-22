@@ -33,7 +33,7 @@
 ## 安装 Java集成开发环境IDEA
 
    ```
-   wget -0 install_idea.sh https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_idea.sh
+   wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_idea.sh
    ```
 ## 安装 Firefox 火狐浏览器
 
