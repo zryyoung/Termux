@@ -35,16 +35,17 @@
    ```
    wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_idea.sh
    ```
-![Termux xfce4](https://img.qovv.cn/2024/05/10/663df2489ddcb.jpg)
+
+![Termux xfce4](https://img2.imgtp.com/2024/05/10/vCUa0w7Q.jpg)
 
 
 ![IDEA启动](https://img2.imgtp.com/2024/05/10/rfF1XQ68.jpg)
 
 
-![IDEA运行](https://img.qovv.cn/2024/05/10/663df2489fbfa.jpg)
+![IDEA运行](https://img2.imgtp.com/2024/05/10/07G1Ya9g.jpg)
 
 
-![IDEA启动springboot项目](https://img.qovv.cn/2024/05/10/663df248912d1.jpg)
+![IDEA启动springboot项目](https://img2.imgtp.com/2024/05/10/xkyJ99jk.jpg)
 
 ## 安装 Firefox 火狐浏览器
 
