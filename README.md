@@ -38,7 +38,7 @@
 ![Termux xfce4](https://img.qovv.cn/2024/05/10/663df2489ddcb.jpg)
 
 
-![IDEA启动](https://img.qovv.cn/2024/05/10/663df24898e6b.jpg)
+![IDEA启动](https://img2.imgtp.com/2024/05/10/rfF1XQ68.jpg)
 
 
 ![IDEA运行](https://img.qovv.cn/2024/05/10/663df2489fbfa.jpg)
