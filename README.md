@@ -35,10 +35,10 @@
    ```
    wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_idea.sh
    ```
-![1000063970.jpg](https://img.qovv.cn/2024/05/10/663df24898e6b.jpg)
-![1000063971.jpg](https://img.qovv.cn/2024/05/10/663df248912d1.jpg)
-![1000063972.jpg](https://img.qovv.cn/2024/05/10/663df2489fbfa.jpg)
-![1000063969.jpg](https://img.qovv.cn/2024/05/10/663df2489ddcb.jpg)
+![IDEA](https://img.qovv.cn/2024/05/10/663df24898e6b.jpg)
+![Termux](https://img.qovv.cn/2024/05/10/663df248912d1.jpg)
+![IDEA](https://img.qovv.cn/2024/05/10/663df2489fbfa.jpg)
+![IDEA](https://img.qovv.cn/2024/05/10/663df2489ddcb.jpg)
 
 ## 安装 Firefox 火狐浏览器
 
