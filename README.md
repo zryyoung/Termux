@@ -30,13 +30,13 @@
    
 5. 打开termux-x11应用，显示桌面
 
-## 安装 Java集成开发环境IDEA
+## 安装 Java 集成开发环境IDEA
 
    ```
    wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_idea.sh
    ```
 
-![Termux xfce4](img/Image_1749313966385.jpg)
+![Termux xfce4 IDEA](img/Image_1749313966385.jpg)
 
 
 ![IDEA启动](img/Image_1749313963609.jpg)
@@ -49,6 +49,26 @@
 ![IDEA显示springboot项目](img/Image_1749313933154.jpg)
 
 ![IDEA启动springboot项目](img/Image_1749313957258.jpg)
+
+## 安装 Python 集成开发环境 PyCharm
+
+   ```
+   wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_idea.sh && bash install_pycharm.sh
+   ```
+
+![Termux xfce4 PyCharm](img/Image_1749315597915.jpg)
+
+
+![PyCharm启动](img/Image_1749315601328.jpg)
+
+
+![PyCharm运行横屏](img/Image_1749315603449.jpg)
+
+![PyCharm运行竖屏](img/Image_1749315605261.jpg)
+
+![PyCharm显示python项目](img/Image_1749315607055.jpg)
+
+![PyCharm启动python项目](img/Image_1749315608815.jpg)
 
 ## 安装 Firefox 火狐浏览器
 
