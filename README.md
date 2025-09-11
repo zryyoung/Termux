@@ -30,6 +30,14 @@
    
 5. 打开termux-x11应用，显示桌面
 
+## 安装 Firefox 火狐浏览器
+
+   ```
+   pkg install firefox
+   ```
+
+打开Xfce4桌面GUI环境，点击桌面下方的浏览器图标，就可以使用firefox
+
 ## 安装 Java 集成开发环境IDEA
 
    ```
@@ -70,13 +78,7 @@
 
 ![PyCharm启动python项目](img/Image_1749315608815.jpg)
 
-## 安装 Firefox 火狐浏览器
 
-   ```
-   pkg install firefox
-   ```
-
-打开桌面环境，点击桌面下方的浏览器图标，就可以使用firefox了，仅此而已
 
 
 
