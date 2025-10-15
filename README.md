@@ -87,17 +87,17 @@
    
 ![Android Studio 启动](img/Image_2025-10-15_15-13-42.jpg)
 
-![Android Studio 界面](img/Image_2025-10-15_15-13-424.jpeg)
-
-![Android Studio 界面](img/Image_2025-10-15_15-13-421.jpeg)
+![Android Studio 界面](img/Image_2025-10-15_15-13-426.jpeg)
 
 ![Android Studio 界面](img/Image_2025-10-15_15-13-422.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-420.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-421.jpeg)
 
 ![Android Studio 界面](img/Image_2025-10-15_15-13-423.jpeg)
 
 ![Android Studio 界面](img/Image_2025-10-15_15-13-425.jpeg)
-
-![Android Studio 界面](img/Image_2025-10-15_15-13-426.jpeg)
 
 ![Android Studio 界面](img/Image_2025-10-15_15-13-427.jpeg)
 
