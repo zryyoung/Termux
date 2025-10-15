@@ -79,6 +79,37 @@
 ![PyCharm启动python项目](img/Image_1749315608815.jpg)
 
 
+## 安装 ANDROID 集成开发环境 Android Studio
+
+```
+   wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_Android_Studio.sh && bash install_Android_Studio.sh
+   ```
+   
+![Android Studio 启动](img/Image_2025-10-15_15-13-42.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-421.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-423.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-424.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-425.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-426.jpeg)
+
+![Android Studio 界面](img/Image_2025-10-15_15-13-427.jpeg)
 
 
+## 安装集成开发环境 WebStorm
 
+```
+   wget https://raw.githubusercontent.com/zryyoung/Termux/main/install_webstorm.sh && bash install_webstorm.sh
+   ```
+   
+![WebStorm 启动](img/Image_2025-10-15_17-23-18.jpg)
+
+![WebStorm 界面](img/Image_2025-10-15_17-23-23.jpg)
+
+![WebStorm 界面](img/Image_2025-10-15_17-23-36.jpg)
+
+![WebStorm 界面](img/Image_2025-10-15_17-23-41.jpg)
